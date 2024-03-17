@@ -3,6 +3,7 @@
 
 at Journal of Industrial Convergence.
 
+- 산업융합연구 제20권 제12호 등재
 
 # 분석 과정
 ## 0. 시행착오
